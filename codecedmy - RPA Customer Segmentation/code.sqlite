@@ -1,0 +1,23 @@
+select * from users limit 20;
+ 
+ select email, birthday
+ from users
+ where birthday between '1980-01-01' 
+ and '1989-12-31';
+ 
+ select email, created_at
+ from users
+ where created_at <= '2017-05-01';
+ 
+ select email from users
+ where test like 'bears';
+ 
+ select email from users
+ where campaign like 'BBB%';
+ 
+ select email from users
+ where campaign like '%-2';
+ 
+ select email from users
+ where campaign is not null
+ and test is not null;
