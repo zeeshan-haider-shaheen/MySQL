@@ -1,0 +1,427 @@
+Query Results
+--------------------------------------------
+id	user_id	order_date	restaurant_id	item_name	special_instructions
+
+1	43	2017-05-10	6	Beef Enchilada	ketchup
+2	9	2017-06-30	3	Samosa	
+3	37	2017-06-15	1	Chicken Fajitas	Pickles on the side.
+4	31	2017-06-13	5	Picadillo	SRIRACHA SAUCE
+4	31	2017-06-13	5	Taquitos	
+5	22	2017-06-16	6	Beef Enchilada	no red onions.
+5	22	2017-06-16	6	Beef Enchilada	
+5	22	2017-06-16	6	Flautas	
+5	22	2017-06-16	6	Salsa	
+6	27	2017-06-09	13	Cannelloni
+---------------------------------------------------	
+order_date
+
+2017-05-10
+2017-06-30
+2017-06-15
+2017-06-13
+2017-06-16
+2017-06-09
+2017-05-06
+2017-05-28
+2017-06-21
+2017-05-08
+2017-05-16
+2017-05-11
+2017-05-14
+2017-06-05
+2017-06-25
+2017-06-23
+2017-05-15
+2017-06-17
+2017-05-25
+2017-06-02
+2017-06-27
+2017-05-29
+2017-06-06
+2017-05-31
+2017-05-23
+2017-05-05
+2017-05-04
+2017-05-27
+2017-06-18
+2017-05-30
+2017-05-03
+2017-05-18
+2017-06-08
+2017-06-04
+2017-06-03
+2017-05-24
+2017-05-09
+2017-06-28
+2017-06-24
+2017-05-19
+2017-05-26
+2017-06-10
+2017-05-20
+2017-06-11
+2017-05-22
+2017-06-01
+2017-05-12
+2017-06-22
+2017-06-26
+2017-05-07
+---------------------------------------------------
+special_instructions
+
+ketchup
+Pickles on the side.
+SRIRACHA SAUCE
+no red onions.
+ring doorbell
+Hey! You forgot my pickles last time. Pickles in a separate container please.
+special_instructions
+ketchup
+Pickles on the side.
+SRIRACHA SAUCE
+no red onions.
+ring doorbell
+Hey! You forgot my pickles last time. Pickles in a separate container please.
+asdf
+Walk to the garage and start singing the Lion King intro. I'll come out.
+*DIET* coke
+*DIET* coke
+The gate is tricky, please don't break it.
+Draw a dragon fighting flamingo on the pizza box.
+The spider on the front porch is Frank. Frank guards the tomatoes. Be nice to Frank.
+kids sleeping. please don't ring the doorbell thank u!
+mayonnaise
+Yell Pizza three times so we know you are not NYPD.
+blank
+blank
+Cut the pizza into Pokeball.
+I live in the Tiny House in the backyard - behind the Oak.
+special_instructions
+#hangry
+#hangry
+#hangry
+*DIET* coke
+*DIET* coke
+.
+Arrange the meat on the pizza so that it spells out the name of each meat.
+BBQ sauce
+Beef milk please
+Cleanse yourself with the sage in the mailbox.
+Cut Pizza into concentric circles.
+Cut the pizza into Pokeball.
+Cut the pizza into pentagram \m/
+Don't forget the drinks thanks!
+Door Code: Codecademy
+Draw Yoda on pizza box.
+Draw a dragon fighting flamingo on the pizza box.
+Draw a narwhal on the delivery box.
+Hey! You forgot my pickles last time. Pickles in a separate container please.
+I live in the Tiny House in the backyard - behind the Oak.
+------------------------------------------------------------
+special_instructions
+
+SRIRACHA SAUCE
+BBQ sauce
+mild sauce
+special_instructions
+ring doorbell
+kids sleeping. please don't ring the doorbell thank u!
+Door Code: Codecademy
+super hungover. let yourself in pass the fridge turn left and double doors my bedroom. im in my pajamas watching james bond 1love
+special_instructions
+Draw a dragon fighting flamingo on the pizza box.
+Cleanse yourself with the sage in the mailbox.
+Draw a narwhal on the delivery box.
+write me a poem on the pizza box.
+Draw Yoda on pizza box.
+beat me tic-tac-toe on the pizza box for $5 tip
+beat me tic-tac-toe on the pizza box for $5 tip
+my coworker and i are working overtime. can u write some inspiration/motivations on the box. u rock!
+#	Notes
+1	ketchup
+2	
+3	Pickles on the side.
+4	SRIRACHA SAUCE
+4	
+5	no red onions.
+5	
+5	
+5	
+6	
+6	
+6	
+7	ring doorbell
+7	
+7	
+8	Hey! You forgot my pickles last time. Pickles in a separate container please.
+8	
+9	
+9	
+9	
+9	
+10	asdf
+10	
+10	
+11	Walk to the garage and start singing the Lion King intro. I'll come out.
+11	
+11	
+11	
+12	*DIET* coke
+12	*DIET* coke
+13	
+14	The gate is tricky, please don't break it.
+14	
+15	Draw a dragon fighting flamingo on the pizza box.
+15	
+15	
+15	
+16	The spider on the front porch is Frank. Frank guards the tomatoes. Be nice to Frank.
+16	
+16	
+16	
+17	
+18	
+18	
+18	
+18	
+19	
+20	kids sleeping. please don't ring the doorbell thank u!
+21	mayonnaise
+21	
+21	
+22	Yell Pizza three times so we know you are not NYPD.
+23	blank
+23	blank
+23	
+24	Cut the pizza into Pokeball.
+24	
+24	
+24	
+25	I live in the Tiny House in the backyard - behind the Oak.
+25	
+26	sweet tea
+26	
+26	
+26	
+27	Cleanse yourself with the sage in the mailbox.
+27	
+27	
+27	
+28	Draw a narwhal on the delivery box.
+29	write me a poem on the pizza box.
+29	
+29	
+30	knock
+30	
+30	
+30	
+31	Don't forget the drinks thanks!
+31	
+31	
+32	don't look me in the eye
+32	
+32	
+32	
+33	
+33	
+34	Cut the pizza into pentagram \m/
+34	
+34	
+35	call and i will come out
+35	
+35	
+36	
+36	
+36	
+36	
+37	Please make one additional tiny version of my order for my hamster.
+37	dont judge me
+37	
+37	
+38	Door Code: Codecademy
+38	
+38	
+39	Soda shaken, not stirred.
+39	
+39	
+40	Draw Yoda on pizza box.
+40	
+40	
+41	asdfjkl;
+41	
+41	Please please please please please do not give me ANY plasticware #motherearth
+41	
+42	
+42	no onions please
+42	
+43	Cut Pizza into concentric circles.
+43	
+43	
+43	
+44	diet coke
+44	
+45	
+45	
+45	super hungover. let yourself in pass the fridge turn left and double doors my bedroom. im in my pajamas watching james bond 1love
+45	
+46	
+46	
+47	#hangry
+47	#hangry
+47	#hangry
+48	
+48	
+48	
+48	
+49	asdf
+49	
+49	
+49	
+50	allergic to peanuts
+50	
+50	
+50	
+51	
+52	
+52	
+53	
+54	BBQ sauce
+54	
+55	smile!
+55	
+55	
+56	
+56	
+56	
+56	
+57	
+57	
+58	
+59	
+59	
+60	creepily wink
+60	
+61	.
+61	
+61	
+61	
+62	beat me tic-tac-toe on the pizza box for $5 tip
+62	
+62	
+63	
+63	
+63	
+64	KNOCK LOUD LIKE THE COPS FOR $20 TIP
+64	
+64	
+64	
+65	extra napkins
+65	
+65	
+65	
+66	dr pepper thx
+66	
+66	
+67	Thank you~
+67	
+67	
+68	
+68	
+68	
+69	
+69	
+69	
+70	Arrange the meat on the pizza so that it spells out the name of each meat.
+71	
+71	
+71	
+71	
+72	
+73	Send your cutest delivery boy <3
+73	
+73	
+73	
+74	
+74	
+75	
+75	
+75	
+76	crust not too crusty
+76	
+76	
+77	
+77	
+78	
+78	
+78	
+78	What's the most ketchup you're willing to give me?
+79	mild sauce
+79	
+79	
+79	
+80	Will you go to the prom with me?
+80	
+80	
+80	
+81	
+81	
+81	
+81	Beef milk please
+82	
+82	
+82	
+82	
+83	
+84	
+84	
+84	
+84	
+85	
+86	please be here before 11:30pm thanks
+86	
+86	
+87	
+88	
+89	
+89	
+89	
+89	
+90	
+90	
+91	
+92	knock
+92	
+92	
+92	
+93	
+93	
+94	Tell my neighbor at 3A to stop playing music at 4am and then deliver to 2A for a tip.
+94	
+94	
+94	
+95	beat me tic-tac-toe on the pizza box for $5 tip
+95	
+95	
+95	
+96	
+96	
+97	my coworker and i are working overtime. can u write some inspiration/motivations on the box. u rock!
+97	
+97	
+97	
+98	
+99	extra pepperoni
+99	
+99	
+99	
+100	Tell my neighbor at 3A to stop playing music at 4am and then deliver to 2A for a tip.
+100	
+100	
+100	call!
+Database Schema
+orders280 rows
+id	INTEGER
+user_id	INTEGER
+order_date	DATE
+restaurant_id	INTEGER
+item_name	TEXT
+special_instructions	TEXT
