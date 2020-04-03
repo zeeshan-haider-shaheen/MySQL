@@ -1,0 +1,70 @@
+select * from stream, chat 
+limit 20;
+
+select distinct(game) from stream;
+
+select distinct(channel) from stream;
+
+select game, count(*)
+from stream
+group by game
+order by count(*) desc;
+
+select country, count(*)
+from stream
+where game = 'League of Legends'
+group by country
+order by count(*) desc
+limit 10;
+
+select player, count(*)
+from stream
+group by 1
+order by 2;
+
+SELECT game,
+ CASE
+  WHEN game = 'Dota 2'
+      THEN 'MOBA'
+  WHEN game = 'League of Legends' 
+      THEN 'MOBA'
+  WHEN game = 'Heroes of the Storm'
+      THEN 'MOBA'
+    WHEN game = 'Counter-Strike: Global Offensive'
+      THEN 'FPS'
+    WHEN game = 'DayZ'
+      THEN 'Survival'
+    WHEN game = 'ARK: Survival Evolved'
+      THEN 'Survival'
+  ELSE 'Other'
+  END AS 'genre',
+  COUNT(*)
+FROM stream
+GROUP BY 1
+ORDER BY 3 DESC;
+
+
+SELECT time
+FROM stream
+LIMIT 10;
+
+
+SELECT time,
+   strftime('%S', time)
+FROM stream
+GROUP BY 1
+LIMIT 20;
+
+
+SELECT strftime('%H', time),
+   COUNT(*)
+FROM stream
+WHERE country = 'US'
+GROUP BY 1;
+
+SELECT *
+FROM stream
+JOIN chat
+  ON stream.device_id = chat.device_id;
+
+

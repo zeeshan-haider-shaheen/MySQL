@@ -1,0 +1,279 @@
+time	device_id	login	channel	country	player	game	stream_format	subscriber	time	device_id	login	channel	country	player	game
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			time	device_id	login	channel	country	player	game
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 18:45:50	70e2b95b5ac0d4c227e46966658d16b3e044996e	5c2f5c1f19a7738e16ed0be551d865e8a8fce71d	jerry	BY		Dota 2
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 01:16:57	f2b9065b55fd80d6aa653ce989b489f4ec5198be	0d77740e4fb5ce77d94f9f6c8ef1f762990d0344	elaine	HK		Devil May Cry 4: Special Edition
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 16:22:10	d448ba963d7e1023dd1b0a40b95d4f6611750692	77ab14c1fb815e1c369ba0cf7d4c56b4fe489997	frank	GB	iphone_t	League of Legends
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 03:58:13	8d6823dc52b400b50aebf269bf1f03a36d19eeaa	91cb88c0743761589273fc5e800e7743ece46494	frank	US	iphone_t	League of Legends
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 11:47:35	16c1e39594d62358d27ae604ad43a071f0d86bc4	51a9234f83d656607cfd7f26690c12d2ffbce353	estelle	DE		Dota 2
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 17:59:51	6fcc75522de37833a0fb21fba4965aad3b63ea57	f628d1cb946ea2e8cffc0b327bc9d77775b8d3c0	jerry	RU		Dota 2
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 02:24:33	dea94b3030025d837dd841fbfd479e775987f65d	9dbbcf6c7792074771c4c7284807041eac467ad5	elaine	TW		Gaming Talk Shows
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 18:26:34	671bee0f3d66077876d9bc231990597292392cc2	51c286a41daa8e060275f622f2b8436bee9fab91	jerry	UA		Dota 2
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 13:13:18	8b31d5ebd1f4f41d4365ae4a471c1686dd256745	06decad1d9565150791e183da017f47123433a4c	estelle	GB	ipad_t	Dota 2
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 20:20:55	f2ebb129e6930e608f2ed3f5fb52bc4d533c4891	4679f8113aa157ba76fc6db5878d7ee625e88d55	frank	CA		League of Legends
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 22:47:24	faf5c126f52f52f4b23c057c31f35fb0cdfbcdf3	cf2c292a9cc31cc398428ec82a872e620d3237df	george			DayZ
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 17:26:27	536bacfa1cd0b39f77eb167689f64d144464ca12	c7f232fb8ab54e78cff1e953d38d09f40b01ce81	frank			League of Legends
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 17:38:00	c9ba7595a583e5964fb74a9fb95f07790362cc35	9b4d863c2b0ab0c4d1e8d33665dab469f15e87b0	newman	US		The Binding of Isaac: Rebirth
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 11:53:47	dcffedc3f5a46a895d70d70d5c9c9abfdcb7c33d	8464a5359d8df9d6636355b391b8748d856bc61b	elaine	TW		Gaming Talk Shows
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 11:23:57	c480007a2b82f6fb0cb94c2b9b445ef99d8d68e7	e17102753876688a04b17142128a16259eaf8374	estelle	US		Dota 2
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 06:01:09	698db5a0e9c4025fe2a1cd094d0cdda647831339	770a8dc070d9db7ab582bc8a27e436fa8aadeb0a	susan	UA		World of Tanks
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 21:51:07	dcd963bb1f416e843781bd5e350c23ffc757201d	eb05316cffb53b70eb5cb8c185557d23a31d2b93	newman	US		The Binding of Isaac: Rebirth
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 13:52:27	7361fc61d20d509e14d1bceb095e950a4a53be8d	62c856bc9a1965df787fefa56ff46c8f2316e3a0	kramer	DE		Counter-Strike: Global Offensive
+2015-01-01 18:33:52	40ffc2fa6534cf760becbdbf5311e31ad069e46e	085c1eb7b587bfe654f0df7b4ba7f4fc4013636c	frank	US	iphone_t	League of Legends			2015-01-01 01:20:08	a8f2b43217deffd17fc5589f0933f90224a9f59e	75e990cf18fc10e69d6d765c555cf07543689f4c	frank	US	ipad_t	League of Legends
+game
+League of Legends
+DayZ
+Dota 2
+Heroes of the Storm
+Counter-Strike: Global Offensive
+Hearthstone: Heroes of Warcraft
+The Binding of Isaac: Rebirth
+Agar.io
+Gaming Talk Shows
+Rocket League
+World of Tanks
+ARK: Survival Evolved
+SpeedRunners
+Breaking Point
+Duck Game
+Devil May Cry 4: Special Edition
+Block N Load
+Fallout 3
+Batman: Arkham Knight
+channel
+frank
+george
+estelle
+morty
+kramer
+jerry
+helen
+newman
+elaine
+susan
+game	count(*)
+League of Legends	1070
+Dota 2	472
+Counter-Strike: Global Offensive	302
+DayZ	239
+Heroes of the Storm	210
+The Binding of Isaac: Rebirth	171
+Gaming Talk Shows	170
+Hearthstone: Heroes of Warcraft	90
+World of Tanks	86
+Agar.io	71
+Rocket League	49
+SpeedRunners	20
+ARK: Survival Evolved	19
+15
+Duck Game	5
+Batman: Arkham Knight	3
+Fallout 3	3
+Block N Load	2
+Breaking Point	2
+Devil May Cry 4: Special Edition	1
+country	count(*)
+US	447
+DE	66
+CA	64
+49
+GB	45
+TR	28
+BR	25
+DK	20
+PL	19
+BE	17
+player	count(*)
+chromecast	1
+roku	1
+xbox360	1
+frontpage	4
+amazon	6
+home	16
+xbox_one	22
+embed	125
+ipad_t	290
+android	547
+iphone_t	622
+site	1365
+game	genre	COUNT(*)
+League of Legends	MOBA	1070
+Dota 2	MOBA	472
+Counter-Strike: Global Offensive	FPS	302
+DayZ	Survival	239
+Heroes of the Storm	MOBA	210
+The Binding of Isaac: Rebirth	Other	171
+Gaming Talk Shows	Other	170
+Hearthstone: Heroes of Warcraft	Other	90
+World of Tanks	Other	86
+Agar.io	Other	71
+Rocket League	Other	49
+SpeedRunners	Other	20
+ARK: Survival Evolved	Survival	19
+Other	15
+Duck Game	Other	5
+Batman: Arkham Knight	Other	3
+Fallout 3	Other	3
+Block N Load	Other	2
+Breaking Point	Other	2
+Devil May Cry 4: Special Edition	Other	1
+time
+2015-01-01 18:33:52
+2015-01-01 23:35:33
+2015-01-01 04:39:38
+2015-01-01 11:15:30
+2015-01-01 11:28:19
+2015-01-01 23:27:36
+2015-01-01 21:09:23
+2015-01-01 19:14:27
+2015-01-01 13:51:04
+2015-01-01 22:00:14
+time	strftime('%S', time)
+2015-01-01 00:00:46	46
+2015-01-01 00:01:11	11
+2015-01-01 00:01:39	39
+2015-01-01 00:03:17	17
+2015-01-01 00:03:20	20
+2015-01-01 00:06:21	21
+2015-01-01 00:07:48	48
+2015-01-01 00:09:47	47
+2015-01-01 00:09:57	57
+2015-01-01 00:10:13	13
+2015-01-01 00:10:47	47
+2015-01-01 00:11:10	10
+2015-01-01 00:11:24	24
+2015-01-01 00:12:16	16
+2015-01-01 00:12:27	27
+2015-01-01 00:13:08	08
+2015-01-01 00:13:52	52
+2015-01-01 00:14:50	50
+2015-01-01 00:14:55	55
+2015-01-01 00:16:50	50
+strftime('%H', time)	COUNT(*)
+00	30
+01	17
+02	34
+03	29
+04	19
+05	14
+06	3
+07	2
+08	4
+09	9
+10	5
+11	48
+12	62
+13	58
+14	40
+15	51
+16	69
+17	55
+18	76
+19	81
+20	102
+21	120
+22	71
+23	63
+time	device_id	login	channel	country	player	game	stream_format	subscriber	time	device_id	login	channel	country	player	game
+2015-01-01 15:48:24	97144e4bab2163d35dd88e6ec804436e8cdddd3d	4bbf4aa9f0abb1902d16555202f7ce61fc607305	frank		iphone_t	League of Legends			2015-01-01 22:37:23	97144e4bab2163d35dd88e6ec804436e8cdddd3d	4bbf4aa9f0abb1902d16555202f7ce61fc607305	frank		iphone_t	League of Legends
+2015-01-01 13:42:19	0c0f18b28971fa084091fbc052a2c8bd8b52d45c	139700a8682c81be4e5c0e6eebc6f95f371dae88	helen	US	site	Hearthstone: Heroes of Warcraft	medium	True	2015-01-01 12:43:09	0c0f18b28971fa084091fbc052a2c8bd8b52d45c	139700a8682c81be4e5c0e6eebc6f95f371dae88	helen	US		Hearthstone: Heroes of Warcraft
+2015-01-01 14:47:33	0b55e56d60d8ebfb5dc343f601b880ad1cfb9b4e	bc9f7aebecaee6d1ba50a467f2e92e65e600e71a	morty	TW	android	Heroes of the Storm			2015-01-01 13:26:15	0b55e56d60d8ebfb5dc343f601b880ad1cfb9b4e	bc9f7aebecaee6d1ba50a467f2e92e65e600e71a	morty	TW	android	Heroes of the Storm
+2015-01-01 02:08:59	bc2410453dd66d5be0167ad9b56223c2e6da66ac	9dd24b6098a57c84e5063500898f21c28cb7eed9	susan	RU	ipad_t	World of Tanks			2015-01-01 00:17:59	bc2410453dd66d5be0167ad9b56223c2e6da66ac	9dd24b6098a57c84e5063500898f21c28cb7eed9	susan	RU	ipad_t	World of Tanks
+2015-01-01 03:16:28	04776eb4135dd9393e3d357b0a80b0c36b206543	bb577ad24dd3aa517e3bfac508bb090e756857e0	frank		iphone_t	League of Legends			2015-01-01 04:04:26	04776eb4135dd9393e3d357b0a80b0c36b206543	bb577ad24dd3aa517e3bfac508bb090e756857e0	frank		iphone_t	League of Legends
+2015-01-01 11:51:31	8db592832a353ad618ed642aeb5bf1d52191c115	bcbfb276445ee25d7274679fda545291fc22c56e	susan	RU	android	World of Tanks			2015-01-01 07:12:49	8db592832a353ad618ed642aeb5bf1d52191c115	bcbfb276445ee25d7274679fda545291fc22c56e	susan	RU	android	World of Tanks
+2015-01-01 11:51:31	8db592832a353ad618ed642aeb5bf1d52191c115	bcbfb276445ee25d7274679fda545291fc22c56e	susan	RU	android	World of Tanks			2015-01-01 07:44:54	8db592832a353ad618ed642aeb5bf1d52191c115	bcbfb276445ee25d7274679fda545291fc22c56e	susan	RU	android	World of Tanks
+2015-01-01 11:51:31	8db592832a353ad618ed642aeb5bf1d52191c115	bcbfb276445ee25d7274679fda545291fc22c56e	susan	RU	android	World of Tanks			2015-01-01 09:01:47	8db592832a353ad618ed642aeb5bf1d52191c115	bcbfb276445ee25d7274679fda545291fc22c56e	susan	RU	android	World of Tanks
+2015-01-01 11:40:18	197b897028cdd9707b14bfe8091fd48725b7fea3	d80669ed70d6dd22a0e41e5051434fc811cad03a	estelle	ID	iphone_t	Dota 2			2015-01-01 13:00:31	197b897028cdd9707b14bfe8091fd48725b7fea3	d80669ed70d6dd22a0e41e5051434fc811cad03a	estelle	ID	iphone_t	Dota 2
+2015-01-01 02:15:52	3e6db5a384fdda05d62831df8208c96d5194fa26	6016d402340ccd86367deefb8de3f4516482827d	frank	US	iphone_t	League of Legends			2015-01-01 03:58:23	3e6db5a384fdda05d62831df8208c96d5194fa26	6016d402340ccd86367deefb8de3f4516482827d	frank	US	iphone_t	League of Legends
+2015-01-01 23:47:00	fd4df67bda60a590e592db46f461194fca85dcf4	31af6092c52b1a3de4a9bd81ae9cd87717545b74	frank	US	site	League of Legends	high	False	2015-01-01 23:47:03	fd4df67bda60a590e592db46f461194fca85dcf4	31af6092c52b1a3de4a9bd81ae9cd87717545b74	frank	US		League of Legends
+2015-01-01 12:07:03	aacbea0512def2bcce6a4d6af68685b9a71b59a4	83262baf4b1462de40dc765e7601996702531a69	estelle	DE	site	Dota 2	chunked	False	2015-01-01 13:44:54	aacbea0512def2bcce6a4d6af68685b9a71b59a4	83262baf4b1462de40dc765e7601996702531a69	estelle	DE		Dota 2
+2015-01-01 12:46:29	ad392b222d577e7487e18d1c85a18334b72ef57a	b00882ae0594e84ebe327143d012dd48bc3f3cf7	kramer	US	android	Counter-Strike: Global Offensive			2015-01-01 12:46:45	ad392b222d577e7487e18d1c85a18334b72ef57a	b00882ae0594e84ebe327143d012dd48bc3f3cf7	kramer	US	android	Counter-Strike: Global Offensive
+2015-01-01 17:46:29	e97cf366987e8120ebc69da19c72b76dab1c3912	3273301f6d535bf7e9933e7f0d0d4c1510a48306	frank	MX	site	League of Legends	high	False	2015-01-01 20:46:11	e97cf366987e8120ebc69da19c72b76dab1c3912	3273301f6d535bf7e9933e7f0d0d4c1510a48306	frank	MX		League of Legends
+2015-01-01 20:41:41	16dc62bdcd29f06a46bc9a5f8676f4178de979a1	f16c5e7644a02ab43ed10bc9bfd5d7af50aa6e33	frank	US	site	League of Legends	high	False	2015-01-01 16:15:30	16dc62bdcd29f06a46bc9a5f8676f4178de979a1	f16c5e7644a02ab43ed10bc9bfd5d7af50aa6e33	frank	US		League of Legends
+2015-01-01 18:28:34	515546d9aa9dc7c3d5b9cb4fdaac810313b93a96	9894ea48ab771d2c46e394fb46f35acef9c52825	newman	US	iphone_t	The Binding of Isaac: Rebirth			2015-01-01 19:13:22	515546d9aa9dc7c3d5b9cb4fdaac810313b93a96	9894ea48ab771d2c46e394fb46f35acef9c52825	newman	US	iphone_t	The Binding of Isaac: Rebirth
+2015-01-01 18:28:34	515546d9aa9dc7c3d5b9cb4fdaac810313b93a96	9894ea48ab771d2c46e394fb46f35acef9c52825	newman	US	iphone_t	The Binding of Isaac: Rebirth			2015-01-01 19:38:22	515546d9aa9dc7c3d5b9cb4fdaac810313b93a96	9894ea48ab771d2c46e394fb46f35acef9c52825	newman	US	iphone_t	The Binding of Isaac: Rebirth
+2015-01-01 13:50:49	f36707a346578c10836ce8daf01b3fb3edeb7077	df64c07d7ecdbcccb36e6cefd12bf3f633a619db	morty	GB	iphone_t	Heroes of the Storm			2015-01-01 12:36:03	f36707a346578c10836ce8daf01b3fb3edeb7077	df64c07d7ecdbcccb36e6cefd12bf3f633a619db	morty	GB	iphone_t	Heroes of the Storm
+2015-01-01 20:57:47	823aa2b711103b32784c24989235110ba5af20d5	5a03510fbfd82d8cb6ec8eb22ce5b7c664d8f077	george	US	android	DayZ			2015-01-01 22:45:04	823aa2b711103b32784c24989235110ba5af20d5	5a03510fbfd82d8cb6ec8eb22ce5b7c664d8f077	george	US	android	DayZ
+2015-01-01 20:57:47	823aa2b711103b32784c24989235110ba5af20d5	5a03510fbfd82d8cb6ec8eb22ce5b7c664d8f077	george	US	android	DayZ			2015-01-01 22:50:02	823aa2b711103b32784c24989235110ba5af20d5	5a03510fbfd82d8cb6ec8eb22ce5b7c664d8f077	george	US	android	DayZ
+2015-01-01 14:37:48	ebea8f9eed17713592900050043deaca4115d6c8	e531bddfe24fa737577e6be171132d353821a2c0	kramer	US	android	Counter-Strike: Global Offensive			2015-01-01 11:24:55	ebea8f9eed17713592900050043deaca4115d6c8	07746fb1b44aa43115d9fb85017a3e50eed26c6e	kramer	US	android	Counter-Strike: Global Offensive
+2015-01-01 14:37:48	ebea8f9eed17713592900050043deaca4115d6c8	e531bddfe24fa737577e6be171132d353821a2c0	kramer	US	android	Counter-Strike: Global Offensive			2015-01-01 11:27:20	ebea8f9eed17713592900050043deaca4115d6c8	07746fb1b44aa43115d9fb85017a3e50eed26c6e	kramer	US	android	Counter-Strike: Global Offensive
+2015-01-01 14:37:48	ebea8f9eed17713592900050043deaca4115d6c8	e531bddfe24fa737577e6be171132d353821a2c0	kramer	US	android	Counter-Strike: Global Offensive			2015-01-01 11:33:42	ebea8f9eed17713592900050043deaca4115d6c8	07746fb1b44aa43115d9fb85017a3e50eed26c6e	kramer	US	android	Counter-Strike: Global Offensive
+2015-01-01 18:49:44	8fd168fb581417138e404c4178ef729068e7acfa	c38a6fa1c5f97a77b8593a94b7f68d33f0b7defb	helen	CA	site	Hearthstone: Heroes of Warcraft	high	False	2015-01-01 18:51:25	8fd168fb581417138e404c4178ef729068e7acfa	c38a6fa1c5f97a77b8593a94b7f68d33f0b7defb	helen	CA		Hearthstone: Heroes of Warcraft
+2015-01-01 11:13:15	d9e38866e18738b0b95da6cd3cc94ce1d3c9f784	3b5e53b3d6c134028909ff96821edfbe18d10e8c	estelle	IT	site	Dota 2	chunked	False	2015-01-01 11:43:15	d9e38866e18738b0b95da6cd3cc94ce1d3c9f784	3b5e53b3d6c134028909ff96821edfbe18d10e8c	estelle	IT		Dota 2
+2015-01-01 20:04:05	92d042260787f66b5a6252eb9192f49bebb69969	443fd891e5e99bc229d175f9240b130a42e1696e	george		site	DayZ	chunked	False	2015-01-01 23:56:33	92d042260787f66b5a6252eb9192f49bebb69969	443fd891e5e99bc229d175f9240b130a42e1696e	george			DayZ
+2015-01-01 20:04:05	92d042260787f66b5a6252eb9192f49bebb69969	443fd891e5e99bc229d175f9240b130a42e1696e	george		site	DayZ	chunked	False	2015-01-01 23:56:34	92d042260787f66b5a6252eb9192f49bebb69969	443fd891e5e99bc229d175f9240b130a42e1696e	george			DayZ
+2015-01-01 12:45:53	8f020f57ea6f0ffc98046a8c6b5b2b15b5bdd079	766f9b7d433cf5669274869d82f1cd6e332aed20	estelle	MX	site	Dota 2	medium	False	2015-01-01 11:04:36	8f020f57ea6f0ffc98046a8c6b5b2b15b5bdd079	766f9b7d433cf5669274869d82f1cd6e332aed20	estelle	MX		Dota 2
+2015-01-01 04:02:24	52234e1d3c0529690ab1300cd1216afcb8307e62	374b49df2deaf50ef66f5ed89e086169ccf17abb	jerry	RU	ipad_t	Dota 2			2015-01-01 13:32:37	52234e1d3c0529690ab1300cd1216afcb8307e62	374b49df2deaf50ef66f5ed89e086169ccf17abb	jerry	RU	ipad_t	Dota 2
+2015-01-01 04:48:29	bd09513abced33a15bb77c460870130b2c203258	57328e47732d5e0d387194a5b72623216d694faa	susan	RU	embed	World of Tanks	medium	False	2015-01-01 13:11:19	bd09513abced33a15bb77c460870130b2c203258	57328e47732d5e0d387194a5b72623216d694faa	susan	RU		World of Tanks
+2015-01-01 04:48:29	bd09513abced33a15bb77c460870130b2c203258	57328e47732d5e0d387194a5b72623216d694faa	susan	RU	embed	World of Tanks	medium	False	2015-01-01 13:22:52	bd09513abced33a15bb77c460870130b2c203258	57328e47732d5e0d387194a5b72623216d694faa	susan	RU		World of Tanks
+2015-01-01 19:03:44	124e3b4c5a1010fc6910ac8e5f1317216e81aeb3	3a1acd01c728803155ffd15306498663028947f0	susan	RU	site	World of Tanks	chunked	False	2015-01-01 19:20:04	124e3b4c5a1010fc6910ac8e5f1317216e81aeb3	3a1acd01c728803155ffd15306498663028947f0	susan	RU		World of Tanks
+2015-01-01 13:28:18	dfc5710b02365eb2bc2a86accba5d170e1f4fb00	c1864ba826edabc94c0439b5d4173b6262e7aa4d	helen	DE	site	Hearthstone: Heroes of Warcraft	low	False	2015-01-01 13:32:57	dfc5710b02365eb2bc2a86accba5d170e1f4fb00	c1864ba826edabc94c0439b5d4173b6262e7aa4d	helen	DE		Hearthstone: Heroes of Warcraft
+2015-01-01 03:16:00	b73490e67d53c8e0d5e28d468f18349a2e2a2623	b20652a7710a75ef807bac66a17cf0d68ecb8543	frank	US	iphone_t	League of Legends			2015-01-01 04:06:34	b73490e67d53c8e0d5e28d468f18349a2e2a2623	b20652a7710a75ef807bac66a17cf0d68ecb8543	frank	US	iphone_t	League of Legends
+2015-01-01 11:47:06	64caa6c818fa3ca7bd1975229d02f7e93151722b	cc34c2dedcd3c9ba6a27347932aa2573fe19c12e	kramer	CA	iphone_t	Counter-Strike: Global Offensive			2015-01-01 12:13:17	64caa6c818fa3ca7bd1975229d02f7e93151722b	cc34c2dedcd3c9ba6a27347932aa2573fe19c12e	kramer	CA	iphone_t	Counter-Strike: Global Offensive
+2015-01-01 11:47:06	64caa6c818fa3ca7bd1975229d02f7e93151722b	cc34c2dedcd3c9ba6a27347932aa2573fe19c12e	kramer	CA	iphone_t	Counter-Strike: Global Offensive			2015-01-01 12:36:16	64caa6c818fa3ca7bd1975229d02f7e93151722b	cc34c2dedcd3c9ba6a27347932aa2573fe19c12e	kramer	CA	iphone_t	Counter-Strike: Global Offensive
+2015-01-01 12:26:42	e4e2f30955fc42d363a73050a9b5e41d2df864b7	5206389dc83be360688fa2820c2f36d677643ca6	kramer	US	site	Counter-Strike: Global Offensive	chunked	False	2015-01-01 12:33:01	e4e2f30955fc42d363a73050a9b5e41d2df864b7	5206389dc83be360688fa2820c2f36d677643ca6	kramer	US		Counter-Strike: Global Offensive
+2015-01-01 14:19:59	904668c9ef5700881f7a9ca369cd4ea951d5423c	318adf4c1123de01bc215da3bbb2cb116d52b219	kramer	DK	site	Counter-Strike: Global Offensive	high	False	2015-01-01 14:21:10	904668c9ef5700881f7a9ca369cd4ea951d5423c	318adf4c1123de01bc215da3bbb2cb116d52b219	kramer	DK		Counter-Strike: Global Offensive
+2015-01-01 15:46:18	97144e4bab2163d35dd88e6ec804436e8cdddd3d	4bbf4aa9f0abb1902d16555202f7ce61fc607305	frank		iphone_t	League of Legends			2015-01-01 22:37:23	97144e4bab2163d35dd88e6ec804436e8cdddd3d	4bbf4aa9f0abb1902d16555202f7ce61fc607305	frank		iphone_t	League of Legends
+2015-01-01 16:42:57	b73490e67d53c8e0d5e28d468f18349a2e2a2623	b20652a7710a75ef807bac66a17cf0d68ecb8543	frank	US	iphone_t	League of Legends			2015-01-01 04:06:34	b73490e67d53c8e0d5e28d468f18349a2e2a2623	b20652a7710a75ef807bac66a17cf0d68ecb8543	frank	US	iphone_t	League of Legends
+2015-01-01 01:16:38	4a82397b448d117c623595eec6c8dde7da8d9b1f	dbfb34d778d85ca2415ec4d43afaee510cd21720	susan	BY	embed	World of Tanks	mobile	False	2015-01-01 03:22:12	4a82397b448d117c623595eec6c8dde7da8d9b1f	dbfb34d778d85ca2415ec4d43afaee510cd21720	susan	BY		World of Tanks
+2015-01-01 03:34:44	de12bc5cad49249439b225162b1bd2945add22d3	40279ca17b71034cd35175a49a767729f8a9074b	frank	US	site	League of Legends	medium	True	2015-01-01 03:58:01	de12bc5cad49249439b225162b1bd2945add22d3	40279ca17b71034cd35175a49a767729f8a9074b	frank	US		League of Legends
+2015-01-01 00:13:52	b73490e67d53c8e0d5e28d468f18349a2e2a2623	b20652a7710a75ef807bac66a17cf0d68ecb8543	frank	US	iphone_t	League of Legends			2015-01-01 04:06:34	b73490e67d53c8e0d5e28d468f18349a2e2a2623	b20652a7710a75ef807bac66a17cf0d68ecb8543	frank	US	iphone_t	League of Legends
+2015-01-01 19:09:46	4c7b06a760ff74443d7c692e17b99a1fbe114332	10c3d2498af0ae8a8d01ff748934861542d884e7	frank	CA	site	League of Legends	high	False	2015-01-01 23:47:12	4c7b06a760ff74443d7c692e17b99a1fbe114332	10c3d2498af0ae8a8d01ff748934861542d884e7	frank	CA		League of Legends
+2015-01-01 19:09:46	4c7b06a760ff74443d7c692e17b99a1fbe114332	10c3d2498af0ae8a8d01ff748934861542d884e7	frank	CA	site	League of Legends	high	False	2015-01-01 23:52:42	4c7b06a760ff74443d7c692e17b99a1fbe114332	10c3d2498af0ae8a8d01ff748934861542d884e7	frank	CA		League of Legends
+2015-01-01 17:30:50	617b7188fdcdb1fc2331d5a2ca4d445ed8cfc361	c8c14911ec93f0578225067f9fe71e025aef48a6	frank	US	ipad_t	League of Legends			2015-01-01 18:09:43	617b7188fdcdb1fc2331d5a2ca4d445ed8cfc361	c8c14911ec93f0578225067f9fe71e025aef48a6	frank	US	ipad_t	League of Legends
+2015-01-01 04:55:21	3dbc37fa7aa4cf8a80920b6adc7f1a1e5cfd5df4	6f1fc04e61c0a4a67ddb4a08f256296ab745cee1	frank	GP	site	League of Legends	high	False	2015-01-01 04:57:27	3dbc37fa7aa4cf8a80920b6adc7f1a1e5cfd5df4	6f1fc04e61c0a4a67ddb4a08f256296ab745cee1	frank	GP		League of Legends
+2015-01-01 22:46:58	e97cf366987e8120ebc69da19c72b76dab1c3912	3273301f6d535bf7e9933e7f0d0d4c1510a48306	frank	MX	site	League of Legends	high	False	2015-01-01 20:46:11	e97cf366987e8120ebc69da19c72b76dab1c3912	3273301f6d535bf7e9933e7f0d0d4c1510a48306	frank	MX		League of Legends
+2015-01-01 11:25:03	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA	embed	Dota 2	high	False	2015-01-01 11:47:19	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA		Dota 2
+2015-01-01 11:25:03	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA	embed	Dota 2	high	False	2015-01-01 11:47:21	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA		Dota 2
+2015-01-01 11:25:03	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA	embed	Dota 2	high	False	2015-01-01 13:02:40	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA		Dota 2
+2015-01-01 11:25:03	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA	embed	Dota 2	high	False	2015-01-01 13:32:58	a0331b0a8240d0875d2ac585c7f2c922042458b0	35ba76c17431aea7da52b95d4f635be869aee9ff	estelle	CA		Dota 2
+2015-01-01 19:21:34	0c7a26a8ff2bbac9626ce65d02acc5e2aa1f994b	94b43f1e1ddea0b05def327389871a5afbad5d00	frank	SE	android	League of Legends			2015-01-01 19:58:06	0c7a26a8ff2bbac9626ce65d02acc5e2aa1f994b	94b43f1e1ddea0b05def327389871a5afbad5d00	frank	SE	android	League of Legends
+2015-01-01 10:30:55	c0dfbf1a54b4ef24134404e6ce211a97b5338d8d	6e748ee093b463a14609ae46130fc8a7cd0107b9	elaine	TW	iphone_t	Gaming Talk Shows			2015-01-01 10:50:55	c0dfbf1a54b4ef24134404e6ce211a97b5338d8d	6e748ee093b463a14609ae46130fc8a7cd0107b9	elaine	TW	iphone_t	Gaming Talk Shows
+2015-01-01 16:21:48	6fbdda3812c9bdecb5f0cdd1540606afc52b93a1	15ad81e361a88b80a02dee0c651b2c090e854e98	george	US	iphone_t	ARK: Survival Evolved			2015-01-01 19:58:18	6fbdda3812c9bdecb5f0cdd1540606afc52b93a1	15ad81e361a88b80a02dee0c651b2c090e854e98	george	US	iphone_t	DayZ
+2015-01-01 16:21:48	6fbdda3812c9bdecb5f0cdd1540606afc52b93a1	15ad81e361a88b80a02dee0c651b2c090e854e98	george	US	iphone_t	ARK: Survival Evolved			2015-01-01 20:13:18	6fbdda3812c9bdecb5f0cdd1540606afc52b93a1	15ad81e361a88b80a02dee0c651b2c090e854e98	george	US	iphone_t	DayZ
+2015-01-01 16:21:48	6fbdda3812c9bdecb5f0cdd1540606afc52b93a1	15ad81e361a88b80a02dee0c651b2c090e854e98	george	US	iphone_t	ARK: Survival Evolved			2015-01-01 21:23:21	6fbdda3812c9bdecb5f0cdd1540606afc52b93a1	15ad81e361a88b80a02dee0c651b2c090e854e98	george	US	iphone_t	DayZ
+2015-01-01 17:05:55	3ffc95f6c5166380495a5a550ee6d73799d334b2	f046af29d1db60d10aece8789e7c9d4ffa0aad04	frank	US	site	League of Legends	chunked	True	2015-01-01 15:45:12	3ffc95f6c5166380495a5a550ee6d73799d334b2	f046af29d1db60d10aece8789e7c9d4ffa0aad04	frank	US		League of Legends
+2015-01-01 17:05:55	3ffc95f6c5166380495a5a550ee6d73799d334b2	f046af29d1db60d10aece8789e7c9d4ffa0aad04	frank	US	site	League of Legends	chunked	True	2015-01-01 15:47:11	3ffc95f6c5166380495a5a550ee6d73799d334b2	f046af29d1db60d10aece8789e7c9d4ffa0aad04	frank	US		League of Legends
+2015-01-01 10:24:52	e9736715edaf795d4f8803a5dbf9c55fa0cbd66a	77e96ed88b4e9f72b05a5361444e182bdd3d9bfb	elaine	TW	site	Gaming Talk Shows	high	False	2015-01-01 09:57:03	e9736715edaf795d4f8803a5dbf9c55fa0cbd66a	77e96ed88b4e9f72b05a5361444e182bdd3d9bfb	elaine	TW		Gaming Talk Shows
+2015-01-01 03:26:24	453b2c869117c31bb7c7e2e87723f3bcb55222a8	1a28940c8332170b0e91bf6d24b41c142ae81d0b	frank	US	android	League of Legends			2015-01-01 03:12:34	453b2c869117c31bb7c7e2e87723f3bcb55222a8	1a28940c8332170b0e91bf6d24b41c142ae81d0b	frank	US	android	League of Legends
+2015-01-01 03:26:24	453b2c869117c31bb7c7e2e87723f3bcb55222a8	1a28940c8332170b0e91bf6d24b41c142ae81d0b	frank	US	android	League of Legends			2015-01-01 03:17:25	453b2c869117c31bb7c7e2e87723f3bcb55222a8	1a28940c8332170b0e91bf6d24b41c142ae81d0b	frank	US	android	League of Legends
+2015-01-01 14:59:33	2e9fd21271d4e769e3508dd37b3b2a7a4111f5d4	231e1dd0f3db2048456564d4ffa63cb28a9b0dda	morty	US	site	Heroes of the Storm	medium	False	2015-01-01 15:02:17	2e9fd21271d4e769e3508dd37b3b2a7a4111f5d4	231e1dd0f3db2048456564d4ffa63cb28a9b0dda	morty	US		Heroes of the Storm
+2015-01-01 16:30:35	32334107d1966f344604201634f0a532130fe002	a57baff624834abfada97ec3adb7dc3e6bf392fc	morty	PE	site	Heroes of the Storm	low	False	2015-01-01 19:48:49	32334107d1966f344604201634f0a532130fe002	a57baff624834abfada97ec3adb7dc3e6bf392fc	morty	PE		Heroes of the Storm
+2015-01-01 16:12:38	3f3dc8e2f03203baa949ef6c458ee01728318ac1	71f5bfd8da5424f2c75fd33ac96669986c35c34b	frank	US	iphone_t	League of Legends			2015-01-01 03:06:22	3f3dc8e2f03203baa949ef6c458ee01728318ac1	71f5bfd8da5424f2c75fd33ac96669986c35c34b	frank	US	iphone_t	League of Legends
+2015-01-01 16:12:38	3f3dc8e2f03203baa949ef6c458ee01728318ac1	71f5bfd8da5424f2c75fd33ac96669986c35c34b	frank	US	iphone_t	League of Legends			2015-01-01 03:18:23	3f3dc8e2f03203baa949ef6c458ee01728318ac1	71f5bfd8da5424f2c75fd33ac96669986c35c34b	frank	US	iphone_t	League of Legends
+2015-01-01 16:12:38	3f3dc8e2f03203baa949ef6c458ee01728318ac1	71f5bfd8da5424f2c75fd33ac96669986c35c34b	frank	US	iphone_t	League of Legends			2015-01-01 18:31:49	3f3dc8e2f03203baa949ef6c458ee01728318ac1	71f5bfd8da5424f2c75fd33ac96669986c35c34b	frank	US	iphone_t	League of Legends
+2015-01-01 10:53:36	809e449b2bd22c9686c9b88b925b52629db29fee	6e4587c6b4572aadebd4c7b6ef36e11ef68eb546	estelle	GB	site	Dota 2	chunked	False	2015-01-01 12:14:19	809e449b2bd22c9686c9b88b925b52629db29fee	6e4587c6b4572aadebd4c7b6ef36e11ef68eb546	estelle	GB		Dota 2
+2015-01-01 10:53:36	809e449b2bd22c9686c9b88b925b52629db29fee	6e4587c6b4572aadebd4c7b6ef36e11ef68eb546	estelle	GB	site	Dota 2	chunked	False	2015-01-01 12:20:27	809e449b2bd22c9686c9b88b925b52629db29fee	6e4587c6b4572aadebd4c7b6ef36e11ef68eb546	estelle	GB		Dota 2
+2015-01-01 19:43:58	f20aaae0f5748c21f13a0b9379a84799620700c2	fb2b064187cc0cdc1328a7a52fead0feb56fde19	frank	US	site	League of Legends	high	False	2015-01-01 01:35:51	f20aaae0f5748c21f13a0b9379a84799620700c2	fb2b064187cc0cdc1328a7a52fead0feb56fde19	frank	US		League of Legends
+2015-01-01 19:43:58	f20aaae0f5748c21f13a0b9379a84799620700c2	fb2b064187cc0cdc1328a7a52fead0feb56fde19	frank	US	site	League of Legends	high	False	2015-01-01 04:11:14	f20aaae0f5748c21f13a0b9379a84799620700c2	fb2b064187cc0cdc1328a7a52fead0feb56fde19	frank	US		League of Legends
+2015-01-01 19:43:58	f20aaae0f5748c21f13a0b9379a84799620700c2	fb2b064187cc0cdc1328a7a52fead0feb56fde19	frank	US	site	League of Legends	high	False	2015-01-01 04:14:22	f20aaae0f5748c21f13a0b9379a84799620700c2	fb2b064187cc0cdc1328a7a52fead0feb56fde19	frank	US		League of Legends
+2015-01-01 21:09:54	59c376efbbb69d22353bd9bf69a314f81df8efd1	72994654fb225d8efbc96bbb1ff3a10138453691	frank	US	site	League of Legends	high	True	2015-01-01 17:52:41	59c376efbbb69d22353bd9bf69a314f81df8efd1	72994654fb225d8efbc96bbb1ff3a10138453691	frank	US		League of Legends
+2015-01-01 21:09:54	59c376efbbb69d22353bd9bf69a314f81df8efd1	72994654fb225d8efbc96bbb1ff3a10138453691	frank	US	site	League of Legends	high	True	2015-01-01 18:50:23	59c376efbbb69d22353bd9bf69a314f81df8efd1	72994654fb225d8efbc96bbb1ff3a10138453691	frank	US		League of Legends
+2015-01-01 21:09:54	59c376efbbb69d22353bd9bf69a314f81df8efd1	72994654fb225d8efbc96bbb1ff3a10138453691	frank	US	site	League of Legends	high	True	2015-01-01 20:34:32	59c376efbbb69d22353bd9bf69a314f81df8efd1	72994654fb225d8efbc96bbb1ff3a10138453691	frank	US		League of Legends
+2015-01-01 08:35:38	c40c695e06555e81eab5a4f71cdf2751bda38431	66b029f58d50ea73e33354904dbada7195bfb84a	elaine	TW	android	Gaming Talk Shows			2015-01-01 08:27:53	c40c695e06555e81eab5a4f71cdf2751bda38431	66b029f58d50ea73e33354904dbada7195bfb84a	elaine	TW	android	Gaming Talk Shows
+2015-01-01 08:35:38	c40c695e06555e81eab5a4f71cdf2751bda38431	66b029f58d50ea73e33354904dbada7195bfb84a	elaine	TW	android	Gaming Talk Shows			2015-01-01 08:46:42	c40c695e06555e81eab5a4f71cdf2751bda38431	66b029f58d50ea73e33354904dbada7195bfb84a	elaine	TW	android	Gaming Talk Shows
+2015-01-01 10:58:24	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB	site	Dota 2	chunked	False	2015-01-01 11:54:06	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB		Dota 2
+2015-01-01 10:58:24	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB	site	Dota 2	chunked	False	2015-01-01 12:18:30	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB		Dota 2
+2015-01-01 10:58:24	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB	site	Dota 2	chunked	False	2015-01-01 12:19:30	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB		Dota 2
+2015-01-01 10:58:24	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB	site	Dota 2	chunked	False	2015-01-01 12:27:40	df73733a543cd76dabae9f7ca8af9ae27e29708b	2261c64d45b2c9a27db6bfc6471841c79975e1b2	estelle	GB		Dota 2
+2015-01-01 16:11:15	8b6689be898620893d20d4e9de2c5fd7304fc63e	2e5c6298bed66c905f37dde666956b1a77b9bfd7	frank	US	site	League of Legends	chunked	False	2015-01-01 11:12:22	8b6689be898620893d20d4e9de2c5fd7304fc63e	2e5c6298bed66c905f37dde666956b1a77b9bfd7	morty	US		Heroes of the Storm
+2015-01-01 13:41:42	b6606b3e23c293f69daea6d49126aa2b8c36e5f6	a584222bc12faead7d2c5eb216ae7a7b83705c0b	kramer	US	ipad_t	Counter-Strike: Global Offensive			2015-01-01 13:27:30	b6606b3e23c293f69daea6d49126aa2b8c36e5f6	a584222bc12faead7d2c5eb216ae7a7b83705c0b	kramer	US	ipad_t	Counter-Strike: Global Offensive
+2015-01-01 22:51:11	617b7188fdcdb1fc2331d5a2ca4d445ed8cfc361	c8c14911ec93f0578225067f9fe71e025aef48a6	frank	US	ipad_t	League of Legends			2015-01-01 18:09:43	617b7188fdcdb1fc2331d5a2ca4d445ed8cfc361	c8c14911ec93f0578225067f9fe71e025aef48a6	frank	US	ipad_t	League of Legends
+Database Schema
+chat3001 rows
+time	DATETIME
+device_id	TEXT
+login	TEXT
+channel	TEXT
+country	TEXT
+player	TEXT
+game	TEXT
+stream3000 rows
+time	DATETIME
+device_id	TEXT
+login	TEXT
+channel	TEXT
+country	TEXT
+player	TEXT
+game	TEXT
+stream_format	TEXT
+subscriber	TEXT
